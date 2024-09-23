@@ -1,5 +1,4 @@
 ### Hi there, I'm Filopater Maher 👋
-- 👋 Hi, I’m Filopater Maher
 - 👀 I’m interested in **Machine Learning, AI, and MLOps**
 - 🌱 I’m currently learning **Cloud Technologies, Networking, and MLOps** to become a Machine Learning Engineer
 - 💞️ I’m looking to collaborate on **AI projects, including computer vision, healthcare applications, and large-scale machine learning systems**
