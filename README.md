@@ -1,6 +1,7 @@
 ### Hi there, I'm Filopater Maher 👋
+- FullStack DataScientist
 - 👀 I’m interested in **Machine Learning, AI, and MLOps**
-- 🌱 I’m currently learning **Cloud Technologies, Distributes Systems Design, Networking, and MLOps** to become a Machine Learning Engineer
+- 🌱 I’m currently learning **Cloud Technologies, Distributes Systems Design, Networking, and MLOps, Web Development** to become a Machine Learning Engineer and make Scalable Web applications with machine learning
 - 💞️ I’m looking to collaborate on **AI projects, including computer vision, healthcare applications, and large-scale machine learning systems**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filo1)
 - 😄 Pronouns: He/Him
